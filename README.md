@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vidnisam
-- 👀 I’m interested in CSS and Wordpress
-- 🌱 I’m currently learning WP all import, CSS customisation and banner design
+- 👀 I’m interested in ZOU
+- 🌱 I’m currently learning ZOU
 - 📫 How to reach me - https://officepro.rs/
 
 <!---
